@@ -5,7 +5,7 @@
   "author": "MeteorSwarm",
   "homepage": "https://discord.gg/4VJkfnu5VJ",
   "description": "A mod that tests features of PlanetsLib.",
-  "factorio_version": "2.0",
+  "factorio_version": "2.1",
   "dependencies": [
     "base",
     "space-age",
